@@ -151,7 +151,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ### Django
 
-* [Some abstract interview questions for Python/Django developers](http://insights.dice.com/2014/04/30/interview-questions-pythondjango-developers/)
+* [Some abstract interview questions for Python/Django developers](http://insights.dice.com/2014/04/30/interview-questions-pythondjango-developers/) [ X ]
+  * [Is Python pass-by-value or pass-by-reference?](https://robertheaton.com/2014/02/09/pythons-pass-by-object-reference-as-explained-by-philip-k-dick/)
+
 * [Some Django basic interview questions to establish the basic level of the candidates](http://www.ilian.io/django-interview-questions/)
 * [Some Django/Python interview questions from Jaypal personal blog](http://blog.jayapal.in/2010/11/django-interview-question.html)
 * [Top 10 Django interview questions with their answers that you can encounter during the job interview for web developer](http://www.goodinterviewquestions.net/top-10-django-interview-questions-and-answers/)
